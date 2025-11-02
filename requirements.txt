@@ -1,0 +1,6 @@
+
+
+## **requirements.txt**
+
+- Since this project uses only Python standard libraries (no external packages), this file can be **empty**
+
